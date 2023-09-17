@@ -1,1 +1,1 @@
-# Diagnosys
+# DiagnoSys
